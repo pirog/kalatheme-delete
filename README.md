@@ -1,3 +1,5 @@
+# DEPRECATED
+Currenet version of Kalatheme is here: https://github.com/drupalprojects/kalatheme
 
 ## CONTENTS OF THIS FILE
 
